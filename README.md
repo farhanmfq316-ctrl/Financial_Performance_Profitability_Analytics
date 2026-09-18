@@ -100,3 +100,11 @@ Financial_Performance_Profitability_Analytics/
 ├── Screenshots/
 │   └── Dashboard.png
 └── README.md
+
+👨‍💻 Author
+Mohammad Farhan
+MBA – Business Analytics & Artificial Intelligence
+Middlesex University Dubai
+Skills: Python | SQL | Power BI | Excel | DAX | Data Analytics | Business Intelligence | Predictive Analytics
+
+
